@@ -12,5 +12,10 @@ internal class Lukas
     public void TellJoke()
     {
         Console.WriteLine("Warum können Geister so gut programmieren? Weil sie immer den Durchblick haben!");
+
+    }
+    public void TellAnotherJoke()
+    {
+        Console.WriteLine("Warum sind Computer so schlecht im Boxen? Weil sie immer abstürzen!");
     }
 }
