@@ -9,5 +9,6 @@ namespace ConsoleApp1
     internal class PatrickS
     {
         //dies ist ein Test-Kommentar
+        //Kommentar Eric...
     }
 }
