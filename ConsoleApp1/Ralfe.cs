@@ -11,4 +11,10 @@ internal class Ralfe
     public int Age { get; set; }
 
     public string Name { get; set; }
+
+    public Ralfe(int age, string name)
+    {
+        Age = age;
+        Name = name;
+    }
 }
