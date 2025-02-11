@@ -30,7 +30,7 @@ namespace ConsoleApp1
         }
 
         /// <summary>
-        /// Least common multiple of two numbers.
+        /// Greatest common divisor of two numbers.
         /// </summary>
         /// <param name="a">the first number</param>
         /// <param name="b">the second number</param>
