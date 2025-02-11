@@ -22,9 +22,17 @@ internal class JuergenT
         var b = 1;
         while (n-- > 0)
         {
-            var temp = a;
-            a = b;
-            b = temp + b;
+            if(n< 0) throw new ArgumentException("n must be greater than or equal to 0");
+            if (n == 0) return 0;
+            int a = 0;
+            int b = 1;
+            while (n-- > 0)
+            {
+                int temp = a;
+                a = b;
+                b = temp + b; // diese Zeile ist ein Kommentar von Wolfgang
+            }
+            return a;
         }
 
         return a;
