@@ -10,11 +10,15 @@ namespace ConsoleApp1
     {
         internal static int Fibonacci(int n)
         {
-            if (n <= 1)
+            int a = 0;
+            int b = 1;
+            while (n-- > 0)
             {
-                return n;
+                int temp = a;
+                a = b;
+                b = temp + b;
             }
-            return Fibonacci(n - 1) + Fibonacci(n - 2);
+            return a;
         }
     }
 }
