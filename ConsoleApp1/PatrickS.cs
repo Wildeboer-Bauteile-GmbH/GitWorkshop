@@ -12,6 +12,7 @@ namespace ConsoleApp1
         //dies ist ein weiterer Test-Kommentar von Gerald
         //Testkommentar 2
         //Kommentar von Wolfgang
+        //Kommentar von Lukas
         // Kommentar von Hendrik
     }
 }
