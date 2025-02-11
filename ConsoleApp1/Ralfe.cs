@@ -20,6 +20,11 @@ namespace ConsoleApp1
             Name = "Ralfe";
             Description = "Ralfe";
         }
+
+        public void Test ()
+        {
+
+        }
     }
 
 }
