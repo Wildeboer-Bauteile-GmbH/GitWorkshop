@@ -10,8 +10,16 @@ namespace ConsoleApp1
     {
         public int Age { get; set; }
 
-        public string Name { get; set; }
-    }
+        public string Name { get; set; }    
 
+        public string Description { get; set; }
+
+        public Ralfe()
+        {
+            Age = 0;
+            Name = "Ralfe";
+            Description = "Ralfe";
+        }
+    }
 
 }
