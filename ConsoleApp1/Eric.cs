@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1;
+
+internal class Eric
 {
-    internal class Eric
-    {
-        // Kommentar von Eric
-    }
+    // Kommentar von Eric
 }
