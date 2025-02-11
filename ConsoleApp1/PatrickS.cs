@@ -14,6 +14,7 @@ namespace ConsoleApp1
         //Kommentar von Wolfgang
         //Kommentar von Lukas
         // Kommentar von Hendrik
+        // Kommentar im mainGerald
         public int Bf { get; set; }
 
     }
