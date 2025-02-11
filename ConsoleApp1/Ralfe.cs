@@ -22,4 +22,9 @@ internal class Ralfe
     {
         Console.WriteLine($"Name: {Name}, Age: {Age}");
     }
+
+    public void Print(string message)
+    {
+        Console.WriteLine(message);
+    }
 }
