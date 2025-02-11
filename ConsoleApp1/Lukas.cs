@@ -1,12 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace ConsoleApp1;
 
-namespace ConsoleApp1
+internal class Lukas
 {
-    internal class Lukas
+    public Lukas(string vorname)
     {
+        Vorname = vorname;
+    }
+
+    internal string Vorname { get; set; }
+
+    public void TellJoke()
+    {
+        Console.WriteLine("Warum können Geister so gut programmieren? Weil sie immer den Durchblick haben!");
     }
 }
