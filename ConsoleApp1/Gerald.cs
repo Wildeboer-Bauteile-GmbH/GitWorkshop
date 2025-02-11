@@ -9,5 +9,8 @@ namespace ConsoleApp1
     internal class Gerald
     {
         // This is a method that will be called from Program.cs
+
+
+        // Änderung von Gerald
     }
 }
