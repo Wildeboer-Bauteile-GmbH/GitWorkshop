@@ -16,6 +16,7 @@ namespace Server.API.Irgendwas.com
         //Kommentar von Lukas
         //weitere Kommentar von Lukas
         // Kommentar von Hendrik
+        // Kommentar im mainGerald
         public int Bf { get; set; }
 
         public  int Bf2 { get; set; }
