@@ -13,6 +13,7 @@ namespace ConsoleApp1
         //Testkommentar 2
         //Kommentar von Wolfgang
         //Kommentar von Lukas
+        //weitere Kommentar von Lukas
         // Kommentar von Hendrik
         public int Bf { get; set; }
 
