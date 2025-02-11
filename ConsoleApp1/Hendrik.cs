@@ -4,11 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1;
+
+internal class Hendrik
 {
-    internal class Hendrik
+    // Test
+    public Hendrik()
     {
-        // Test
+      // Test
         public Hendrik()
         {
             // Test TEST
