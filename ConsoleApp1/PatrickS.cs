@@ -9,7 +9,12 @@ namespace ConsoleApp1
     internal class PatrickS
     {
         //dies ist ein Test-Kommentar
-        //Kommentar 2 von Patrick
+        //dies ist ein weiterer Test-Kommentar von Gerald
         //Testkommentar 2
+        //Kommentar von Wolfgang
+        //Kommentar von Lukas
+        // Kommentar von Hendrik
+        public int Bf { get; set; }
+
     }
 }
