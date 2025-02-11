@@ -8,8 +8,16 @@ namespace ConsoleApp1
 {
     internal class JuergenT
     {
+        /// <summary>
+        /// Calculate the Fibonacci number for a given n.
+        /// </summary>
+        /// <param name="n">the given numbe</param>
+        /// <returns>the result</returns>
+        /// <exception cref="ArgumentException">if n is less than 0</exception>
         internal static int Fibonacci(int n)
         {
+            if(n< 0) throw new ArgumentException("n must be greater than or equal to 0");
+            if (n == 0) return 0;
             int a = 0;
             int b = 1;
             while (n-- > 0)
