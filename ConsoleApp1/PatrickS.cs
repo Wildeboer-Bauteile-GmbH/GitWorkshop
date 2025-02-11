@@ -18,6 +18,9 @@ namespace Server.API.Irgendwas.com
         // Kommentar von Hendrik
         public int Bf { get; set; }
 
-        public  int Bf2 { get; set; }
+        /// <summary>
+        /// Dies ist ein Integer
+        /// </summary>
+        public  int Bf3 { get; set; }
     }
 }
