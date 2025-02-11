@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
-{
+namespace ConsoleApp1;
+
     internal class hensenu
     {
-        // Dummy 2
+        // Dummy 4
     }
-}
+
