@@ -24,7 +24,7 @@ namespace ConsoleApp1
             {
                 int temp = a;
                 a = b;
-                b = temp + b;
+                b = temp + b; // diese Zeile ist ein Kommentar von Wolfgang
             }
             return a;
         }

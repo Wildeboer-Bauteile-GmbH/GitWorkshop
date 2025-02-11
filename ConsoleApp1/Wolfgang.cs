@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public Wolfgang()
         {
-            Console.WriteLine("Hello, Wolfgang");
+            Console.WriteLine("Hello, Wolfgang");// diese Zeile ist ein Kommentar von Wolfgang
         }
     }
 }
