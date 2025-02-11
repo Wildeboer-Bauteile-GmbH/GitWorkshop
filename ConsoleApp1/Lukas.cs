@@ -18,4 +18,10 @@ internal class Lukas
     {
         Console.WriteLine("Warum sind Computer so schlecht im Boxen? Weil sie immer abstürzen!");
     }
+    public void TellThirdJoke()
+    {
+        Console.WriteLine("Warum können Programmierer keine guten Tänzer sein? Weil sie immer nur in Schleifen denken!");
+    }
+
+    
 }
