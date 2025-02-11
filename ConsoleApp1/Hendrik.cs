@@ -8,5 +8,10 @@ namespace ConsoleApp1
 {
     internal class Hendrik
     {
+        // Test
+        public Hendrik()
+        {
+            
+        }
     }
 }
