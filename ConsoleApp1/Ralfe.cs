@@ -17,4 +17,9 @@ internal class Ralfe
         Age = age;
         Name = name;
     }
+
+    public void Print()
+    {
+        Console.WriteLine($"Name: {Name}, Age: {Age}");
+    }
 }
