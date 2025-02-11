@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Server.API.Irgendwas.com
 {
     internal class PatrickS
     {
@@ -16,8 +16,10 @@ namespace ConsoleApp1
         //Kommentar von Lukas
         //weitere Kommentar von Lukas
         // Kommentar von Hendrik
+        // Kommentar im mainGerald
         public int Bf { get; set; }
 
         public  int Bf2 { get; set; }
+        public int Bf3 { get; set; }
     }
 }
