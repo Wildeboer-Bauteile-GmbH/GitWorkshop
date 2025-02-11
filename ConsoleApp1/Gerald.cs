@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1;
+
+internal class Gerald
 {
-    internal class Gerald
-    {
         // This is a method that will be called from Program.cs
 
 
@@ -16,5 +16,5 @@ namespace ConsoleApp1
         // Änderung von Gerald in GeraldBranch3
 
         // Änderung von Gerald in GeraldBranch3 - 1
-    }
+    
 }
