@@ -28,5 +28,22 @@ namespace ConsoleApp1
             }
             return a;
         }
+
+        /// <summary>
+        /// Least common multiple of two numbers.
+        /// </summary>
+        /// <param name="a">the first number</param>
+        /// <param name="b">the second number</param>
+        /// <returns>the result</returns>
+        internal static int gcd(int a, int b)
+        {
+            while (b != 0)
+            {
+                int temp = b;
+                b = a % b;
+                a = temp;
+            }
+            return a;
+        }
     }
 }
