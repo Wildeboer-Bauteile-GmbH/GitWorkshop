@@ -5,7 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Server.API.Irgendwas.com;
-
+/// <summary>
+/// Summary description for PatrickS
+/// </summary>
 internal class PatrickS
 {
     //dies ist ein Test-Kommentar
