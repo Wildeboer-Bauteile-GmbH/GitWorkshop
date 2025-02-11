@@ -19,5 +19,6 @@ namespace Server.API.Irgendwas.com
         public int Bf { get; set; }
 
         public  int Bf2 { get; set; }
+        public int Bf3 { get; set; }
     }
 }
