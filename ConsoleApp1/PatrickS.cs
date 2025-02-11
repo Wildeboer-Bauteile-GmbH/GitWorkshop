@@ -19,7 +19,12 @@ namespace Server.API.Irgendwas.com
         // Kommentar im mainGerald
         public int Bf { get; set; }
 
+        /// <summary>
+        /// Dies ist ein Integer
+        /// </summary>
+        public  int Bf3 { get; set; }
+
         public  int Bf2 { get; set; }
-        public int Bf3 { get; set; }
+
     }
 }
