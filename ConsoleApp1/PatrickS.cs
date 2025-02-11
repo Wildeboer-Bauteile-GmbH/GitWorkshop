@@ -19,6 +19,5 @@ namespace ConsoleApp1
         public int Bf { get; set; }
 
         public  int Bf2 { get; set; }
-        public int Gh3 { get; set; }
-    }
+            }
 }
