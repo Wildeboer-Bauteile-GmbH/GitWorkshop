@@ -15,5 +15,5 @@ internal class Gerald
 
         // Änderung von Gerald in GeraldBranch3
 
-    }
+
 }
