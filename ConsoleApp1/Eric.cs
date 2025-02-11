@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     internal class Eric
     {
+        // Kommentar von Eric
     }
 }
