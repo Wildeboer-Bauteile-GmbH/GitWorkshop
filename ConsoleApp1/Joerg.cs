@@ -10,4 +10,9 @@ internal class Joerg
 {
     public int MyProperty1 { get; set; }
     public int MyProperty2 { get; set; }
+
+    /// <summary>
+    /// Summary description for Joerg
+    /// </summary>
+    public int MyProperty3 { get; set; }
 }

@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp1;
 
-internal class Program
+internal class Program2
 {
     private static void Main(string[] args)
     {
