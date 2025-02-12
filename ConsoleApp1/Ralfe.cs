@@ -27,4 +27,10 @@ internal class Ralfe
     {
         Console.WriteLine(message);
     }
+
+    public void Print(string message, string message2)
+    {
+        Console.WriteLine($"{message} {message2}");
+    }
+
 }
