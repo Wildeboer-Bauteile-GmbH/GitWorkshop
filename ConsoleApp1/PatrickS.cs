@@ -10,7 +10,7 @@ namespace Server.API.Irgendwas.com;
 /// </summary>
 internal class PatrickS
 {
-    //dies ist ein Test-Kommentar
+    //dies ist ein Test-Kommentar ABC
     //dies ist ein weiterer Test-Kommentar von Gerald
     //Testkommentar 2
     //Kommentar von Wolfgang - neu
