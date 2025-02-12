@@ -19,6 +19,7 @@ internal class PatrickS
     //weitere Kommentar von Lukas
     // Kommentar von Hendrik
     // Kommentar im mainGerald
+    // Eine Änderung
     public int Bf123 { get; set; }
 
     /// <summary>
