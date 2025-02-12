@@ -19,6 +19,8 @@ internal class PatrickS
     //weitere Kommentar von Lukas
     // Kommentar von Hendrik
     // Kommentar im mainGerald
+
+    //Änderung: ALle Buttons in Grün
     public int Bf { get; set; }
 
     /// <summary>
