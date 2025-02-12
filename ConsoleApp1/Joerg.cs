@@ -14,5 +14,5 @@ internal class Joerg
     /// <summary>
     /// Summary description for Joerg
     /// </summary>
-    public int MyProperty2 { get; set; }
+    public int MyProperty3 { get; set; }
 }
