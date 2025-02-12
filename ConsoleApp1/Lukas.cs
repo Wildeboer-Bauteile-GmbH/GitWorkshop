@@ -23,4 +23,12 @@ internal class Lukas
     {
         Console.WriteLine("Warum können Seeräuber keine Kreise zeichnen? Weil sie immer Pi raten!");
     }
+
+    /// <summary>
+    /// :-) Tralllala
+    /// </summary>
+    public void ImAJokerIAmASmokerImAMidnightTalker()
+    { 
+        Console.WriteLine("I'm a joker");
+    }
 }
