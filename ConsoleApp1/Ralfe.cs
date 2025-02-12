@@ -33,8 +33,8 @@ internal class Ralfe
         Console.WriteLine($"{message} {message2}");
     }
 
-    public void Print(string message, string message2, string message3)
+    public void Test()
     {
-        Console.WriteLine($"{message} {message2} {message3}");
+        Console.WriteLine("Test1");
     }
 }
