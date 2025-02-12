@@ -29,6 +29,7 @@ internal class Lukas
     /// </summary>
     public void ImAJokerIAmASmokerImAMidnightTalker()
     { 
+        return;
         Console.WriteLine("I'm a joker");
     }
 }
