@@ -10,7 +10,7 @@ internal class JanA
 {
     public void TestSomething() 
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World! TEST");
         Console.WriteLine("Fibonacci(10) = " + JuergenT.Fibonacci(10));
     }
 
