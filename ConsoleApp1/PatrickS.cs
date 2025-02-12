@@ -26,5 +26,5 @@ internal class PatrickS
     /// </summary>
     public int Bf3 { get; set; }
 
-    public int Bf2 { get; set; }
+    public int Bf4 { get; set; }
 }
