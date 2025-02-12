@@ -21,6 +21,7 @@ internal class PatrickS
     // Kommentar im mainGerald
 
     //Änderung: ALle Buttons in Grün
+    //Hallo, dies ist ein Test
     public int Bf { get; set; }
 
     /// <summary>
