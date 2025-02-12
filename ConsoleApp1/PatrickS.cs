@@ -19,12 +19,12 @@ internal class PatrickS
     //weitere Kommentar von Lukas
     // Kommentar von Hendrik
     // Kommentar im mainGerald
-    public int Bf { get; set; }
+    public int Bf123 { get; set; }
 
     /// <summary>
     /// Dies ist ein Integer
     /// </summary>
-    public int Bf3 { get; set; }
+    public int Bf345 { get; set; }
 
     public int Bf2 { get; set; }
 }
