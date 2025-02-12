@@ -25,7 +25,7 @@ public static class LevenshteinDistance
                 var cost = (source2[j - 1] == source1[i - 1]) ? 0 : 1;
 
                 matrix[i, j] = Math.Min(
-                    Math.Min(matrix[i - 1, j] + 1, matrix[i, j - 1] + 1),
+                    Math.Max(matrix[i - 1, j] + 1, matrix[i, j - 1] + 1),
                     matrix[i - 1, j - 1] + cost);
             }
         }
